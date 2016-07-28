@@ -14,11 +14,17 @@ If NOT using Cloud9 IDE see: `https://github.com/slmoore/blank-merrn.git`
 3. Select a blank template.
 4. Click the Create button.
 
-###Terminal commands
-1. `npm install`
-2. `npm run dev`
+###Install dependencies (this will take a minute)
+
+`npm install` 
+
+###start application
+
+`npm run dev`
 
 ###Go to dev site
 1. Go to Window -> Share
 2. Click the Application URL and select Open
+
+**To see the hot reloader in action open the browser console and make a change to the text in index.js**
 

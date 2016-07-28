@@ -5,7 +5,7 @@ import ReactDOM from 'react-dom'
 //https://github.com/gaearon/react-hot-loader/blob/master/docs/Troubleshooting.md
 class App extends React.Component {
   render() {
-    return (<div>It's alive!!!!!!!!!</div>)
+    return (<div>It's alive!</div>)
   }
 }
 
