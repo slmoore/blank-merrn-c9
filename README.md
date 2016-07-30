@@ -1,11 +1,11 @@
-#Blank MERRN Application on Cloud9 IDE
+#Blank MERRN Application on [Cloud9 IDE](https://c9.io/)
 
 This is a blank "Hello World" style application that installs all the necessary dependencies without any functionality beyond rendering one React component.  
 It has Hot Reloading functionality included.  Clean with no boilerplate functionality.
 
 MongoDB, Express, React, Redux, Node
 
-This version is setup to be compatible with the Cloud9 IDE.
+This version is setup to be compatible with the [Cloud9 IDE](https://c9.io/).
 
 If NOT using Cloud9 IDE see: [blank-merrn](https://github.com/slmoore/blank-merrn.git)
 
